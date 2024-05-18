@@ -40,4 +40,16 @@ public class BST {
         // TODO Auto-generated method stub
         throw new UnsupportedOperationException("Unimplemented method 'delete'");
     }
+
+
+    public int countLeafNodes() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'countLeafNodes'");
+    }
+
+
+    public int countNonLeafNodes() {
+        // TODO Auto-generated method stub
+        throw new UnsupportedOperationException("Unimplemented method 'countNonLeafNodes'");
+    }
 }
